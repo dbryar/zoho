@@ -1,0 +1,10 @@
+build/
+package-lock.json
+archetypes/
+assets/
+config/
+content/
+layouts/
+public/
+resources/
+static/
